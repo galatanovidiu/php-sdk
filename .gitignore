@@ -6,3 +6,7 @@ vendor
 examples/**/dev.log
 examples/**/cache
 examples/**/sessions
+
+# PHP 7.4 build
+/build/
+/rector-cache/
